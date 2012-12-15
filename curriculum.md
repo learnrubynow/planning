@@ -10,6 +10,48 @@ Goals
 Environment Setup
 -----------------
 
-* Virtual Machine
+*Virtual Machine*
+
+* Download VMWare Fusion
+* Start Virtual Machine
+* Change password from happy
+* Create ssh key
+* Mount home dir
+* sym link home dir
+
+*Git & Github*
+
 * Git overview
-* Github account
+* Github 
+  * Overview
+  * Create account
+  * Upload public key to git
+  * Create first public repository
+* Clone repository
+
+*Sublime Text Editor*
+
+* Download
+* Create a project
+* Columns
+* Command T
+* Find/Replace
+
+Command Line Tools
+------------------
+
+* pwd
+* cd
+* mkdir
+* cat
+* grep -ivn
+* df -h
+* du -sh
+
+Ruby
+----
+
+
+Rails
+-----
+
