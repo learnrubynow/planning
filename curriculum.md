@@ -57,7 +57,6 @@ Ruby
   * Array
   * Hash
   * Symbol
-
 * modules
 * class
 * method
