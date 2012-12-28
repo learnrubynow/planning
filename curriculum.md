@@ -51,6 +51,19 @@ Command Line Tools
 Ruby
 ----
 
+* Data Types (Nelson will do these)
+  * Number (int, float, etc)
+  * String
+  * Array
+  * Hash
+  * Symbol
+
+* modules
+* class
+* method
+* inheritance
+* constants
+* objects
 
 Rails
 -----
