@@ -63,6 +63,7 @@ Ruby
 * inheritance
 * constants
 * objects
+* irb
 
 Rails
 -----
